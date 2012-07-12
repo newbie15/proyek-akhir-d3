@@ -1,0 +1,7 @@
+repositori ini adalah repositori khusus untuk proyek akhir D3 saya yang berjudul
+
+KONTROL ARAH ANTENA TELEVISI SECARA OTOMATIS DENGAN MENGGUNAKAN NILAI PRESET MELALUI REMOTE KONTROL
+
+programnya terdiri dari
+  ir_ta_vXX adalah program untuk box receiver, dibuat dengan menggunakan Arduino IDE
+  
